@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jdbc">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc/src/build/java" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc/src/demo/java" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc/src/generated/java" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc/src/legacy/java" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc/src/main/core-api/java" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc/src/main/core-impl/java" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc/src/main/protocol-impl/java" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc/src/main/user-api/java" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc/src/main/user-impl/java" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/main/resources/com/courseproject/jdbc" recursive="false" />
+  </library>
+</component>
